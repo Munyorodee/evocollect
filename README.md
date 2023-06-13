@@ -1,12 +1,12 @@
 # TECHNOLOGIES
 
-FRAMEWORK:React
-LANGUAGE:Typescript
-STYLING:Tailwind CSS
-ICONS:Tailwind Heroicons
-ANIMATIONS:FramerMotion
-STARTER PACK:Vite
-OS:Ubuntu 22.10
+* FRAMEWORK:React
+* LANGUAGE:Typescript
+* STYLING:Tailwind CSS
+* ICONS:Tailwind Heroicons
+* ANIMATIONS:FramerMotion
+* STARTER PACK:Vite
+* OS:Ubuntu 22.10
 
 ## Clone the Repo
 
