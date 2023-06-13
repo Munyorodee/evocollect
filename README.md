@@ -1,8 +1,37 @@
-# gym-typescript
+# TECHNOLOGIES
 
-Build a Complete Typescript React Fitness Application for Beginners
+FRAMEWORK:React
+LANGUAGE:Typescript
+STYLING:Tailwind CSS
+ICONS:Tailwind Heroicons
+ANIMATIONS:FramerMotion
+STARTER PACK:Vite
+OS:Ubuntu 22.10
 
-Video: https://www.youtube.com/watch?v=I2NNxr3WPDo
+## Clone the Repo
 
-For all related questions and discussions about this project, check out the discord:
-https://discord.gg/2FfPeEk2mX
+## Create Project
+
+npm create vite@latest
+cd g-evo_typescript
+npm install
+npm run dev
+
+## VSCODE EXT
+
+Install ES7+React/Redux/React-Native
+Prettier Code Formatter
+Tailwind Documentation
+Tailwind CSS Intellisense
+
+## Install Packages/dependencies
+
+npm i framer-motion react-anchor-link-smooth-scroll@1.0.12 @heroicons/react
+
+npm i -D @types/react-anchor-link-smooth@1.0.2 @types/node
+
+npm i -D tailwindcss postcss autoprefixer
+
+npx tailwind init -p
+
+npm i -D prettier prettier-plugin-tailwindcss
