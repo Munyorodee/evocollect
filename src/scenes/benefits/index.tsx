@@ -15,7 +15,7 @@ const benefits: Array<BenefitType> = [
     icon: <HomeModernIcon className="h-6 w-6" />,
     title: "State of the art Facilities",
     description:
-      "We have smart RFID bins, waste collection tracking mobile app...",
+      "We have smart RFID bins, waste collection tracking mobile app.",
   },
   {
     icon: <UserGroupIcon className="h-6 w-6" />,
@@ -27,7 +27,7 @@ const benefits: Array<BenefitType> = [
     icon: <AcademicCapIcon className="h-6 w-6" />,
     title: "Efficient waste pickers",
     description:
-      "We make use of the already existing large pool of informal waste pickers. And we have their profession even smarter and sustainable..",
+      "We make use of the already existing large pool of informal waste pickers.",
   },
 ];
 
